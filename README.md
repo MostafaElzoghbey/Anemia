@@ -11,4 +11,4 @@ This project is an automated classification for analyzing blood with or without 
 
 ## Note
 
-you can test any blood analyses by changing the code driver
+you can test any blood analyses by changing the driver code.
