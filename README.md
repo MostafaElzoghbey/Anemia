@@ -1,6 +1,6 @@
 # Anemia Description
 
-This project is an automated classification for analyzing blood with or without anemia by training the algorithms Naive Bayes and KNN on a large group of anemic and non-anaemic blood analyses.
+This project is an automated classification for analyzing blood with or without anemia by training the algorithms Naive Bayes and KNN on a large group of anemic and non-anaemic blood analysis.
 
 ## Installation
 
